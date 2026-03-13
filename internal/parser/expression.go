@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"CalcMatxGo/CalcMatxGo-main/internal/matrix"
+	"calcMatx/internal/matrix"
 )
 
 var prec = map[string]int{"+": 1, "-": 1, "*": 2}
